@@ -18,7 +18,7 @@ describe('AppComponent', () => {
   it('should create the app', async(() => {
     let fixture = TestBed.createComponent(AppComponent);
     let app = fixture.debugElement.componentInstance;
-    expect(app).toBeTruthy();
+    expect(!app).toBeTruthy();
   }));
 
   it(`should have as title 'app works!'`, async(() => {

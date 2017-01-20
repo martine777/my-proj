@@ -1,0 +1,61 @@
+
+> mean-start@0.0.1 build2 C:\projects\my-proj
+> tsc --project server
+
+node_modules/.1.4.27@@types/socket.io/index.d.ts(11,2): error TS2300: Duplicate identifier 'export='.
+node_modules/.4.7.2@@types/mongoose/index.d.ts(85,9): error TS2300: Duplicate identifier 'NativeBuffer'.
+node_modules/.4.7.2@@types/mongoose/index.d.ts(86,9): error TS2300: Duplicate identifier 'NativeDate'.
+node_modules/.4.7.2@@types/mongoose/index.d.ts(87,9): error TS2300: Duplicate identifier 'NativeError'.
+node_modules/.4.7.2@@types/mongoose/index.d.ts(95,14): error TS2300: Duplicate identifier 'Mongoose'.
+node_modules/.4.7.2@@types/mongoose/index.d.ts(96,8): error TS2300: Duplicate identifier 'Mongoose'.
+node_modules/.4.7.2@@types/mongoose/index.d.ts(179,8): error TS2300: Duplicate identifier 'MongooseThenable'.
+node_modules/.4.7.2@@types/mongoose/index.d.ts(194,9): error TS2300: Duplicate identifier 'CastError'.
+node_modules/.4.7.2@@types/mongoose/index.d.ts(258,18): error TS2300: Duplicate identifier 'ConnectionBase'.
+node_modules/.4.7.2@@types/mongoose/index.d.ts(417,9): error TS2300: Duplicate identifier 'Connection'.
+node_modules/.4.7.2@@types/mongoose/index.d.ts(433,9): error TS2300: Duplicate identifier 'ValidationError'.
+node_modules/.4.7.2@@types/mongoose/index.d.ts(442,9): error TS2300: Duplicate identifier 'Error'.
+node_modules/.4.7.2@@types/mongoose/index.d.ts(516,9): error TS2300: Duplicate identifier 'VirtualType'.
+node_modules/.4.7.2@@types/mongoose/index.d.ts(533,9): error TS2300: Duplicate identifier 'Schema'.
+node_modules/.4.7.2@@types/mongoose/index.d.ts(908,9): error TS2300: Duplicate identifier 'MongooseDocument'.
+node_modules/.4.7.2@@types/mongoose/index.d.ts(1107,11): error TS2300: Duplicate identifier 'Subdocument'.
+node_modules/.4.7.2@@types/mongoose/index.d.ts(1123,11): error TS2300: Duplicate identifier 'Array'.
+node_modules/.4.7.2@@types/mongoose/index.d.ts(1232,11): error TS2300: Duplicate identifier 'DocumentArray'.
+node_modules/.4.7.2@@types/mongoose/index.d.ts(1261,11): error TS2300: Duplicate identifier 'Buffer'.
+node_modules/.4.7.2@@types/mongoose/index.d.ts(1293,10): error TS2300: Duplicate identifier 'ObjectIdConstructor'.
+node_modules/.4.7.2@@types/mongoose/index.d.ts(1305,11): error TS2300: Duplicate identifier 'Embedded'.
+node_modules/.4.7.2@@types/mongoose/index.d.ts(1345,9): error TS2300: Duplicate identifier 'Query'.
+node_modules/.4.7.2@@types/mongoose/index.d.ts(1346,9): error TS2300: Duplicate identifier 'DocumentQuery'.
+node_modules/.4.7.2@@types/mongoose/index.d.ts(1766,9): error TS2300: Duplicate identifier 'mquery'.
+node_modules/.4.7.2@@types/mongoose/index.d.ts(1807,13): error TS2300: Duplicate identifier 'Schema'.
+node_modules/.4.7.2@@types/mongoose/index.d.ts(2041,9): error TS2300: Duplicate identifier 'Aggregate'.
+node_modules/.4.7.2@@types/mongoose/index.d.ts(2168,9): error TS2300: Duplicate identifier 'SchemaType'.
+node_modules/@types/mongoose/index.d.ts(85,9): error TS2300: Duplicate identifier 'NativeBuffer'.
+node_modules/@types/mongoose/index.d.ts(86,9): error TS2300: Duplicate identifier 'NativeDate'.
+node_modules/@types/mongoose/index.d.ts(87,9): error TS2300: Duplicate identifier 'NativeError'.
+node_modules/@types/mongoose/index.d.ts(95,14): error TS2300: Duplicate identifier 'Mongoose'.
+node_modules/@types/mongoose/index.d.ts(96,8): error TS2300: Duplicate identifier 'Mongoose'.
+node_modules/@types/mongoose/index.d.ts(179,8): error TS2300: Duplicate identifier 'MongooseThenable'.
+node_modules/@types/mongoose/index.d.ts(194,9): error TS2300: Duplicate identifier 'CastError'.
+node_modules/@types/mongoose/index.d.ts(258,18): error TS2300: Duplicate identifier 'ConnectionBase'.
+node_modules/@types/mongoose/index.d.ts(417,9): error TS2300: Duplicate identifier 'Connection'.
+node_modules/@types/mongoose/index.d.ts(433,9): error TS2300: Duplicate identifier 'ValidationError'.
+node_modules/@types/mongoose/index.d.ts(442,9): error TS2300: Duplicate identifier 'Error'.
+node_modules/@types/mongoose/index.d.ts(516,9): error TS2300: Duplicate identifier 'VirtualType'.
+node_modules/@types/mongoose/index.d.ts(533,9): error TS2300: Duplicate identifier 'Schema'.
+node_modules/@types/mongoose/index.d.ts(739,5): error TS2374: Duplicate string index signature.
+node_modules/@types/mongoose/index.d.ts(867,5): error TS2374: Duplicate string index signature.
+node_modules/@types/mongoose/index.d.ts(908,9): error TS2300: Duplicate identifier 'MongooseDocument'.
+node_modules/@types/mongoose/index.d.ts(1107,11): error TS2300: Duplicate identifier 'Subdocument'.
+node_modules/@types/mongoose/index.d.ts(1123,11): error TS2300: Duplicate identifier 'Array'.
+node_modules/@types/mongoose/index.d.ts(1232,11): error TS2300: Duplicate identifier 'DocumentArray'.
+node_modules/@types/mongoose/index.d.ts(1261,11): error TS2300: Duplicate identifier 'Buffer'.
+node_modules/@types/mongoose/index.d.ts(1293,10): error TS2300: Duplicate identifier 'ObjectIdConstructor'.
+node_modules/@types/mongoose/index.d.ts(1305,11): error TS2300: Duplicate identifier 'Embedded'.
+node_modules/@types/mongoose/index.d.ts(1345,9): error TS2300: Duplicate identifier 'Query'.
+node_modules/@types/mongoose/index.d.ts(1346,9): error TS2300: Duplicate identifier 'DocumentQuery'.
+node_modules/@types/mongoose/index.d.ts(1766,9): error TS2300: Duplicate identifier 'mquery'.
+node_modules/@types/mongoose/index.d.ts(1807,13): error TS2300: Duplicate identifier 'Schema'.
+node_modules/@types/mongoose/index.d.ts(2041,9): error TS2300: Duplicate identifier 'Aggregate'.
+node_modules/@types/mongoose/index.d.ts(2168,9): error TS2300: Duplicate identifier 'SchemaType'.
+node_modules/@types/mongoose/index.d.ts(2643,5): error TS2374: Duplicate string index signature.
+node_modules/@types/socket.io/index.d.ts(11,2): error TS2300: Duplicate identifier 'export='.

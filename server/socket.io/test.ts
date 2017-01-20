@@ -6,7 +6,7 @@ export default function (io: SocketIO.Server) {
       io.emit('chat message', msg);
     });
     socket.on('disconnect', function () {
-      console.log('user disconnected');
+      console.log('user disconnected！');
     });
   });
 };
